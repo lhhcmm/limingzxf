@@ -2,7 +2,6 @@
 
 
 
-
 #app{
   
 text-align:center;
@@ -54,7 +53,7 @@ animation-fill-mode:backwards;
 /*margin-top:-.45rem;*/
 margin-top:0rem;
 /*设置往上移*/
-height:710px;
+height:650px;
 /*设置背景滚动高度*/
 
 position:relative
